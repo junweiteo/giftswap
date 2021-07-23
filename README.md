@@ -7,5 +7,6 @@ by carrying out gift exchanges! We believe that giving and receiving gifts can h
 
 # Deploying the Telegram Bot Locally
 1. Git clone this repository
-2. Run `python main.py` 
-3. Find giftswap bot or `https://t.me/giftswap_bot`
+2. In `config.toml`, include your api_id, api_hash by retrieving it from https://docs.pyrogram.org/intro/quickstart#get-pyrogram-real-fast, and add in your `bot_token` from `@BotFather`
+3. Run `python main.py` 
+4. Find giftswap bot or `https://t.me/giftswap_bot`
