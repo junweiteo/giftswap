@@ -1,2 +1,0 @@
-pyrogram[fast]==0.16.0
-toml
