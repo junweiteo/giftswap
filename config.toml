@@ -1,6 +1,6 @@
 [pyrogram]
 session_name = "giftswap-bot"
-api_id = 7261401
-api_hash = "88a335ad444f5d79fbba6f2b4ed3620e"
-bot_token = "1787382799:AAEUXUetSSW4D0V2FSAoL18xC1B8Nsjsm7Q"
+api_id = #unique api id
+api_hash = #unique api_hash
+bot_token = #bot token / api key
 workers = 8 
